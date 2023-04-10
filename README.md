@@ -11,7 +11,7 @@ I wanted to code a plugin for x64dbg. I wanted it to be simple. I combined it wi
 
 ### ! I'm using it for [snowman plugin](https://github.com/x64dbg/snowman) right now but I will share later.. still not perfect !
 
-## Features that can be added.
+## maybe i will add it later 😬
 * There may be some new things that I can add depending on the status of the project. For example, it can explain the pseudocode produced by integrating with the [snowman plugin](https://github.com/x64dbg/snowman).
 * It can generate attack codes related to selected areas.
 
